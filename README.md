@@ -27,6 +27,7 @@ cd vue-weather-app/vue-weather
 
 # Install dependencies
 npm install
+```
 
 ## Configuration
 
@@ -34,6 +35,6 @@ npm install
 - Locate the variable `api_key` and replace `"YOUR_API_KEY"` with your OpenWeatherMap API key that you may find at https://home.openweathermap.org/api_keys page
 
 ## Run the App
-npm run serve
+```npm run serve```
 
 Open your browser and navigate to http://localhost:8080 to view the app.
