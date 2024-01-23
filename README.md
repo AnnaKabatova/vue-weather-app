@@ -1,4 +1,4 @@
-# Vue.js Weather App
+# Simple Weather App
 
 ## Overview
 
